@@ -427,7 +427,7 @@ function WynfUi:CreateWindow(config)
 	FloatBtn.Position = ud2(1, -70, 1, -90)
 	FloatBtn.BackgroundColor3 = T.SecondaryBg
 	FloatBtn.BackgroundTransparency = 0
-	FloatBtn.Image = "rbxassetid://114170833075159"
+	FloatBtn.Image = "rbxassetid://72380279434385"
 	FloatBtn.ScaleType = Enum.ScaleType.Crop
 	FloatBtn.AutoButtonColor = false
 	FloatBtn.ZIndex = 500
